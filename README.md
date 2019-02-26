@@ -14,13 +14,14 @@ No code is the best.
 
 ## If you need code, try not to write it
 
-Find out if the code was already written for you. 
+Find out if the code has already been written for you. 
 It can be in your code base but maybe it can be another library.  
 Don’t fall into the trap of [Not Invented Here](https://en.wikipedia.org/wiki/Not_invented_here) syndrome. 
 If you need to create an http or date handling library, think twice - probably someone has already written it. 
 Spend some time learning the library and then just use it. 
-There are bad libraries, but most of them are good enough. 
+There are bad libraries, but most of them are good enough.
 If it’s an open source library and it has no feature you want it to have - contribute to it, it still will be faster than writing everything from scratch.
+Anyway you will not write a better one with a high degree of probability.
 
 ## Write as much as you need but not more than that
 
@@ -67,11 +68,15 @@ You don’t have to invent solutions if the solutions are already [available](ht
 ## Automate everything
 
 Many things you do can be automated through scripts. 
+Let the scripts do the job for you. 
 Writing some of the code can be automated as well. 
-Make use of the tool of your choice to write code - it contains features to write code so that you don’t have to do that yourself. 
-Code generation tools do exist. 
+So let the tools do the job for you as well. 
+Know what they can do. 
+Make use of the editor of your choice - it may contains features to generate and manipulate code so that you dont have to do that yourself. 
+Code generation tools do exist.
 
 ## Don’t hurry
 Haste makes waste. 
 This applies to code as well. 
 If you write the code in haste, you introduce more bugs, you make it harder to read and you will spend more time later fixing the bugs and trying to understand what you wrote there than if you wrote it calmly in the first place.
+
