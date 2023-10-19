@@ -1,4 +1,4 @@
-# Lazy Developer's Manifesto
+# Lazy Developer Manifesto
 
 ## No code is the best code
 
