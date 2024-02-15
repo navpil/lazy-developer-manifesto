@@ -1,6 +1,6 @@
 # Lazy Developer Manifesto
 
-## No code is the best code
+## 1. No code is the best code
 
 The best code is the one which was never written. 
 It has no bugs, it needs no maintenance, no code review, no testing, just nothing. 
@@ -12,7 +12,7 @@ Moreover - delete the code which is not needed: dead code, commented out code, f
 The less code - the better. 
 No code is the best.
 
-## If you need code, try not to write it
+## 2. If you need code, try not to write it
 
 Find out if the code has already been written for you. 
 It can be in your code base but maybe it can be another library.  
@@ -23,7 +23,7 @@ There are bad libraries, but most of them are good enough.
 If it’s an open source library and it has no feature you want it to have - contribute to it, it still will be faster than writing everything from scratch.
 Anyway you will not write a better one with a high degree of probability.
 
-## Don't write code no one asked for
+## 3. Don't write code no one asked for
 
 If you say “What if I need it later” then later you write it.
 But most likely [you ain’t gonna need it](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it).
@@ -35,7 +35,7 @@ Don't optimize non-existing performance problems.
 [Premature optimization is a root of all evil](https://wiki.c2.com/?PrematureOptimization).
 Unless you know what the problem is, you may make things worse.
 
-## Write as much as you need but not more than that
+## 4. Write as much as you need but not more than that
 
 If you still need to write code, [Keep It Simple, Stupid](https://en.wikipedia.org/wiki/KISS_principle). 
 If your job should run every night - do a cron job. 
@@ -46,12 +46,12 @@ Cron job is enough.
 
 [Entities must not be multiplied beyond necessity](https://en.wikipedia.org/wiki/Occam%27s_razor).
 
-## Don’t rewrite working code
+## 5. Don’t rewrite working code
 
 [If it works, don’t touch it](https://en.wikipedia.org/wiki/Bert_Lance). 
 And remember - one of the greatest sins is a [full rewrite](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/).
 
-## Not all tasks should be complicated
+## 6. Not all tasks should be complicated
 
 If a task seems too tedious, probably there is a simpler way. 
 Find out - it may save you tons of time. 
@@ -67,7 +67,7 @@ They have their own ideas about finances-to-feature ratio, maybe this feature do
 They may say that the feature was only nice-to-have and can be skipped.
 And you will have to write no code.
 
-## Don’t strive for perfection
+## 7. Don’t strive for perfection
 
 Perfect code might become obsolete by the time you finish it. 
 Better done than perfect. 
@@ -77,14 +77,14 @@ Don’t spend too much time thinking either.
 If it’s not about architecture and there are seemingly similar approaches, libraries, technologies, formats, tools each with its pros and cons, just pick any. 
 [You can refactor it later](https://techblog.bozho.net/do-it-either-way-well-refactor-it-later/).
 
-## Search engine is your friend 
+## 8. Search engine is your friend 
 
 If you can’t find the solution yourself, [search](https://www.google.com) for it. 
 It would be called cheating at school. 
 It is normal at work. 
 You don’t have to invent solutions if the solutions are already [available](https://stackoverflow.com/).
 
-## Automate everything
+## 9. Automate everything
 
 Many things you do can be automated through scripts. 
 Let the scripts do the job for you. 
@@ -94,7 +94,7 @@ Know what they can do.
 Make use of the editor of your choice - it may contains features to generate and manipulate code so that you dont have to do that yourself. 
 Code generation tools do exist.
 
-## Don’t hurry
+## 10. Don’t hurry
 
 Haste makes waste. 
 This applies to code as well. 
