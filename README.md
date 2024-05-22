@@ -74,6 +74,7 @@ Better done than perfect.
 [Worse is better](https://en.wikipedia.org/wiki/Worse_is_better). 
 
 Don’t spend too much time thinking either. 
+Don't become a victim of [Analysis Paralysis](https://en.wikipedia.org/wiki/Analysis_paralysis).
 If it’s not about architecture and there are seemingly similar approaches, libraries, technologies, formats, tools each with its pros and cons, just pick any. 
 [You can refactor it later](https://techblog.bozho.net/do-it-either-way-well-refactor-it-later/).
 
